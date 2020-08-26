@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.calarix.lambda.example.interfaces;
+package com.calarix.lambda.example.basic;
 
 /**
  * @author amich

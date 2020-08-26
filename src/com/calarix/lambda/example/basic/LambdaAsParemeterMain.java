@@ -1,12 +1,10 @@
 /**
  * 
  */
-package com.calarix.lambda.example;
+package com.calarix.lambda.example.basic;
 
 import java.util.Arrays;
 import java.util.List;
-
-import com.calarix.lambda.example.interfaces.Finder;
 
 /**
  * @author Adolfo Miguel Iglesias

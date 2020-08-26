@@ -1,9 +1,7 @@
 /**
  * 
  */
-package com.calarix.lambda.example;
-
-import com.calarix.lambda.example.interfaces.Calculator;
+package com.calarix.lambda.example.basic;
 
 /**
  * @author amich
