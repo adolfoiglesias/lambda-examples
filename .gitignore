@@ -33,4 +33,5 @@ hs_err_pid*
 *.iws
 *.iml
 *.ids
+.idea
 

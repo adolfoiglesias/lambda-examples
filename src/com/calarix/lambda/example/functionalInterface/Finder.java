@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.calarix.lambda.example.basic;
+package com.calarix.lambda.example.functionalInterface;
 
 /**
  * @author Adolfo Miguel Iglesias

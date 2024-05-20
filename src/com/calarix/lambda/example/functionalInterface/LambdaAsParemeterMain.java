@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.calarix.lambda.example.basic;
+package com.calarix.lambda.example.functionalInterface;
 
 import java.util.Arrays;
 import java.util.List;
@@ -29,8 +29,8 @@ public class LambdaAsParemeterMain {
 			return builder.toString();
 		};
 		
-		// usgin directly
-		String value = "Adolfo Miguel Iglesias CHaviano";
+		// find all uppercase
+		String value = "Adolfo Miguel Iglesias Chaviano";
 		System.out.println(finder.findAll(value));
 		
 		
