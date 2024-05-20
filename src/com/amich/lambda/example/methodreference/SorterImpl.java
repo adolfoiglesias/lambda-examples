@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.calarix.lambda.example.methodreference;
+package com.amich.lambda.example.methodreference;
 
 import java.util.Collections;
 import java.util.List;

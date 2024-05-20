@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.calarix.lambda.example.functionalInterface;
+package com.amich.lambda.example.functionalInterface;
 
 import java.util.Arrays;
 import java.util.List;

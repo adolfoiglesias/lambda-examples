@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.calarix.lambda.example.exceptions;
+package com.amich.lambda.example.exceptions;
 
 import java.io.File;
 import java.io.IOException;

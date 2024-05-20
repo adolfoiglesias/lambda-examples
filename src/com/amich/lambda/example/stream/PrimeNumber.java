@@ -1,6 +1,5 @@
-package com.calarix.lambda.example.stream;
+package com.amich.lambda.example.stream;
 
-import java.util.function.Predicate;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 

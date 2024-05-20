@@ -1,4 +1,4 @@
-package com.calarix.lambda.example.stream;
+package com.amich.lambda.example.stream;
 
 import java.util.HashSet;
 import java.util.stream.Collectors;
